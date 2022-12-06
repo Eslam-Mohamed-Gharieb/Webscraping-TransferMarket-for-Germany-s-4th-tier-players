@@ -1,4 +1,4 @@
-## Webscraping TransferMarket for Germany's 4th tier players in the 2022/2023 season for scrouting or Educational purposes
+## Webscraping TransferMarket for Germany's 4th tier players in the 2022/2023 season for scouting or Educational purposes
 
 #### Germany Fourth Tier leagues are:
 - Regionalliga Südwest
